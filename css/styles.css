@@ -26,6 +26,11 @@ nav{
     margin: 30px auto;
     padding: 20px;
 }
+iframe{
+    position: relative;
+    left: 35.5%;
+    top: 50%;
+}
 footer{
     max-width: 600px;
     width: 100%;
